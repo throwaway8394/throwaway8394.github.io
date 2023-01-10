@@ -1,3 +1,8 @@
 body {
     background-color: black;
   }
+
+.hunt { 
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    }
