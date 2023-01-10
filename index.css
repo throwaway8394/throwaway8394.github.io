@@ -18,12 +18,12 @@ body {
     display: block;
     background-color: red;
     text-align: center;
-    color: white;
+    color: blue;
     text-decoration: none;
     }
   
 .snerp:hover{
-    color: white;
+    color: blue;
     background-color: red
      }
 
