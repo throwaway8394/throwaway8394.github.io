@@ -1,0 +1,15 @@
+.snerp {
+    width: 120px;
+    height: 40px;
+    display: block;
+    background-color: white;
+    text-align: center;
+    color: gray;
+    text-decoration: none;
+    margin:0 auto;
+    }
+  
+.snerp:hover{
+    color: gray;
+    background-color: white;
+     }
