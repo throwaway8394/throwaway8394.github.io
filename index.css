@@ -15,12 +15,18 @@ body {
     display: block;
     background-color: red;
     text-align: center;
-    color: gray;
+    color: white;
     text-decoration: none;
     margin:0 auto;
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
     }
   
 .snerp:hover{
-    color: gray;
+    color: white;
     background-color: red
      }
