@@ -1,8 +1,14 @@
+
+
+body {
+    background-color: black;
+    }
+
 .snerp {
     width: 120px;
     height: 40px;
     display: block;
-    background-color: white;
+    background-color: red;
     text-align: center;
     color: gray;
     text-decoration: none;
@@ -11,5 +17,5 @@
   
 .snerp:hover{
     color: gray;
-    background-color: white;
+    background-color: red
      }
